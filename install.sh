@@ -407,7 +407,7 @@ echo
 precheck_files=( automysqlbackup a01b7af7df0e594b52e7a38dec0f7641
 automysqlbackup.conf d525efa3da15ce9fea96893e5a8ce6d5
 README b17740fcd3a5f8579b907a42249a83cd
-LICENSE 39bba7d2cf0ba1036f2a6e2be52fe3f0
+LICENSE a23a74b3f4caf9616230789d94217acb
 )
 
 n=$(( ${#precheck_files[@]}/2 ))
